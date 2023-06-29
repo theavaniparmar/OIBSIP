@@ -8,7 +8,7 @@ TASK 1 - CALCULATOR
 I created a simple calculator with basic mathematical functionalities using CSS, HTML, and JAVASCRIPT.
 
 TASK 2 - TRIBUTE PAGE 
-With a basic understanding of HTML and CSS , i easily created a tribute page of MS DHONI.
+I easily created a tribute page of MS DHONI, With a basic understanding of HTML and CSS.
 
 TASK 3 - TO DO LIST
 I developed a basic to do list that allows users to add items in list, also shows to users pending task list and completion task list. 
